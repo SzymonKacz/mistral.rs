@@ -3,7 +3,8 @@
 </h1>
 
 <h3 align="center">
-Blazingly fast LLM inference.
+Blazingly fast LLM inference. ZMIANA NA FORKU
+  
 </h3>
 
 <p align="center">
